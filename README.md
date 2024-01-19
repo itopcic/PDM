@@ -10,3 +10,4 @@
   7. You can finally run do_all_svms.py to execute the whole SVM pipeline which will get you your accuracy
   8. You can run semantic_similarity.py to compute the similarity
   9. You can run create_plots.py to generate the same plots used in the thesis
+- The archive folder contains code once used in the project but not necessary anymore
